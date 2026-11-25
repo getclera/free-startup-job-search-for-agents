@@ -2,7 +2,7 @@
 
 **Find startup jobs, compare matches, and apply from your AI assistant with [Clera](https://www.getclera.com/). Free for job seekers.**
 
-**270,000+ wider-market job listings** · **900+ startup hiring partners** · **MCP for Claude, ChatGPT, Codex, Cursor & more**
+**Nearly 800,000 wider-market job listings** · **900+ startup hiring partners** · **MCP for Claude, ChatGPT, Codex, Cursor & more**
 
 **[Browse startup jobs](https://www.getclera.com/jobs?utm_source=github&utm_medium=readme&utm_campaign=agent_job_search)** · **[Add to Claude](https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Clera&connectorUrl=https%3A%2F%2Fmcp.getclera.com)** · **[Connect to ChatGPT](https://www.getclera.com/mcp/talent?utm_source=github&utm_medium=readme&utm_campaign=agent_job_search)** · [Official MCP docs](https://www.getclera.com/mcp/docs)
 
@@ -12,7 +12,7 @@
 
 No GitHub clone needed. The website lets you browse without installing an MCP connector; signing in to Clera unlocks your own matches and application workflows.
 
-> **About the numbers:** Clera's candidate search returned **270,967 wider-market listings on November 20, 2026**. Counts change, and not every wider-market listing is a startup role. Clera also works directly with **900+ startups** on introductions. Avoid describing the wider-market inventory as "300,000+ startup jobs" without rechecking.
+> **About the numbers:** Clera's candidate search returned **796,415 wider-market listings on November 24, 2026**. Counts change, and not every wider-market listing is a startup role. Clera also works directly with **900+ startups** on introductions. Don't call the wider-market inventory "800,000+ startup jobs". Recheck the count first.
 
 ## What is this?
 

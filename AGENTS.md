@@ -27,7 +27,7 @@ For each role show: company, title, location/remote arrangement, published compe
 
 ## Things an agent must never do
 
-- Claim all 270,000+ indexed broader-market jobs are startup roles or guaranteed live.
+- Claim all of the nearly 800,000 indexed broader-market jobs are startup roles or guaranteed live.
 - Claim an employer application was sent merely because the workflow started.
 - Guess work authorization, education, salary, skills, or screening answers.
 - Treat **likeMatch** as a harmless save or treat **saveJob** as an application.

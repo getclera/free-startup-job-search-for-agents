@@ -4,9 +4,9 @@
 
 Yes. Clera's Talent MCP and job-search product are free for candidates. Employers pay Clera when they hire through Clera. See the [Talent MCP overview](https://www.getclera.com/mcp/talent).
 
-## Is this a list of 300,000+ startup jobs?
+## Is this a list of 800,000 startup jobs?
 
-Not exactly. A live check of the **wider-market searchJobs index returned 270,967 listings on November 20, 2026**, and the count changes. These are *wider-market job listings*, not necessarily all startup roles or all currently open. Clera also works directly with **900+ startups** whose roles may be accessible through matches and introductions, including roles not on the public board.
+Not exactly. A live check of the **wider-market searchJobs index returned 796,415 listings on November 24, 2026**, and the count changes. These are *wider-market job listings*, not necessarily all startup roles or all currently open. Clera also works directly with **900+ startups** whose roles may be accessible through matches and introductions, including roles not on the public board.
 
 ## Where can I search without an AI assistant?
 
